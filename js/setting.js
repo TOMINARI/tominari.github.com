@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Icons for COFOG taxonomy
  *
  */
@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'nantobudget';
+OpenSpending.identifier = 'nantobudget_2';
 OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
-  '1': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' } ,
   '1-1': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-1': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
